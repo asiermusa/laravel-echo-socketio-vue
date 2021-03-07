@@ -2,7 +2,7 @@
 
 Realtime application using Laravel backend and Vue remote SPA webapp.
 The project is based in Laravel 8 and includes Api Tokens based Sanctum authentication.
-Public and private channels demos are included.
+Public and private channel's demos are included.
 
 ### Dependencies
 
